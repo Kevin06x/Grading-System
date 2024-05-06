@@ -1,7 +1,8 @@
 /*
-	Bastida Marin, Sebastian (Team Leader)
+	Zhang, Kevin (Team Leader)
+	Bastida Marin, Sebastian
 	Lee, Kevin
-	Zhang, Kevin
+
 
 	Project: Grade Report
 	CS A250
